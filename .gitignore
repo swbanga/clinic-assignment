@@ -1,7 +1,5 @@
 # Assignment brief and generated deliverables must never enter the repository
 Clinic Appointment System Mini Project.pdf
-*.pdf
-*.pptx
 
 # Python bytecode and caches
 __pycache__/
